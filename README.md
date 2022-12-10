@@ -16,13 +16,6 @@ git clone https://github.com/MustafaCebeci/kodluyoruzilkrepo.git
 ## Kullanım
 ---
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
- 
-Linux için:
-```
-cd kodluyoruzilkrepo
-code .
-```
-
 
 ## Contributing
 ---
